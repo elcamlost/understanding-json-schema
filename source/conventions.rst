@@ -33,6 +33,9 @@ JSON in a few different languages:
     --C
     For C, you may want to consider using `Jansson
     <http://www.digip.org/jansson/>`_ to read and write JSON.
+    --Perl
+    For Perl, you may want to consider using `Json::MaybeXS
+    <https://metacpan.org/pod/JSON::MaybeXS>`_ to read and write JSON.
 
 Examples
 --------
